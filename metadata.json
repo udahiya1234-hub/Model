@@ -1,0 +1,5 @@
+{
+  "name": "Spam Detection Model Dashboard",
+  "description": "A dashboard to visualize and compare the performance of various machine learning models for spam detection, based on analysis from a Google Colab notebook.",
+  "requestFramePermissions": []
+}
